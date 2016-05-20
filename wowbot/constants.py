@@ -1,6 +1,4 @@
-lockroles = ["Reddit Moderator", "Discord Moderator", "Twitterbot", "Curator - general", "Curator - off-topic",
-             "Curator - legion-discussion", "Curator - meta", "Curator - pve", "Curator - pvp", "Curator - lfg",
-             "Curator - content-creation", "Curator - help", "Muted", "Curator", "ModeratorNonDisplayed"]
+lockroles = ["Man'ari", "Nathrezim", "Twitterbot", "Doomguard", "Muted", "ModeratorNonDisplayed", "Birthday Boy", 'Fel Reaver', 'mods', 'modperms', 'curatorperms', 'Supermod']
 
 helpmsg = '`{0}class [classname]` to get your class.\n`{0}clear` gets rid of your class colour.\n\n' \
           'I currently know the classes```{1}```'
